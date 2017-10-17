@@ -23,12 +23,12 @@ while(num >=300 && num <=333){
 	num++;
 }
 
-console.log("PRINT ALL THE NUMBERS DVISIBLE BY 5 AND 3 BETWEEN 5 AND 50")
-num = 5;
-while(num >=5 && num <=50){
-	if (num % 5 == 5 && ==3) {
-		console.log(num);
-		num++;
-	}
+// console.log("PRINT ALL THE NUMBERS DVISIBLE BY 5 AND 3 BETWEEN 5 AND 50")
+// num = 5;
+// while(num >=5 && num <=50){
+// 	if (num % 5 == 5 && ==3) {
+// 		console.log(num);
+// 		num++;
+// 	}
 
-}
+// }
